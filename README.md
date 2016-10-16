@@ -49,3 +49,6 @@ Thanks to
 2. npm install
 3. bower install
 4. gulp
+
+## License
+MIT
